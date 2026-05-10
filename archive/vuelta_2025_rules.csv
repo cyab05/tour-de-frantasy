@@ -1,0 +1,84 @@
+Event,GC,Sprinter,Young,Climber,Flex,Team
+Wearing Overall Leaders Jersey for a day,10,10,10,,10,10
+Wearing Points Leaders Jersey for a day,10,10,10,,10,10
+Wearing KOM Leaders Jersey for a day,,10,10,10,10,10
+Wearing Young Leaders Jersey for a day,,10,10,,10,10
+,,,,,,
+Final GC Standing 1st,500,,,,50,50
+Final GC Standing 2nd,300,,,,30,30
+Final GC Standing 3rd,200,,,,20,20
+Final GC Standing 4th,150,,,,15,15
+Final GC Standing 5th,100,,,,10,10
+Final GC Standing 6th,90,,,,9,9
+Final GC Standing 7th,80,,,,8,8
+Final GC Standing 8th,70,,,,7,7
+Final GC Standing 9th,60,,,,6,6
+Final GC Standing 10th,50,,,,5,5
+,,,,,,
+Final Points Standing 1st,,300,,,30,30
+Final Points Standing 2nd,,200,,,20,20
+Final Points Standing 3rd,,150,,,15,15
+Final Points Standing 4th,,100,,,10,10
+Final Points Standing 5th,,90,,,9,9
+Final Points Standing 6th,,80,,,8,8
+Final Points Standing 7th,,70,,,7,7
+Final Points Standing 8th,,60,,,6,6
+Final Points Standing 9th,,50,,,5,5
+Final Points Standing 10th,,40,,,4,4
+,,,,,,
+Final KOM Standing 1st,,,,300,30,30
+Final KOM Standing 2nd,,,,200,20,20
+Final KOM Standing 3rd,,,,150,15,15
+Final KOM Standing 4th,,,,100,10,10
+Final KOM Standing 5th,,,,90,9,9
+,,,,,,
+Final Young Rider Standing 1st,,,300,,30,30
+Final Young Rider Standing 2nd,,,200,,20,20
+Final Young Rider Standing 3rd,,,150,,15,15
+Final Young Rider Standing 4th,,,100,,10,10
+Final Young Rider Standing 5th,,,90,,9,9
+Final Young Rider Standing 6th,,,80,,8,8
+Final Young Rider Standing 7th,,,70,,7,7
+Final Young Rider Standing 8th,,,60,,6,6
+Final Young Rider Standing 9th,,,50,,5,5
+Final Young Rider Standing 10th,,,40,,4,4
+,,,,,,
+Stage Win,50,50,50,50,50,50
+First Stage Bonus,10,10,10,10,10,10
+Team Time Trial Bonus,,,,,,40
+Queen Stage Bonus,20,20,20,20,20,20
+Time Trial Bonus,10,10,10,10,10,10
+Final Stage Bonus,20,20,20,20,20,20
+ 2nd Place Stage Finish,10,10,10,10,10,0
+ 3rd Place Stage Finish,8,8,8,8,8,0
+ 4th Place Stage Finish,6,6,6,6,6,0
+ 5th Place Stage Finish,4,4,4,4,4,0
+,,,,,,
+,,,,,,
+Week 1 Best Teammate,30,30,30,30,30,30
+Week 2 Best Teammate,30,30,30,30,30,30
+Week 3 Best Teammate,30,30,30,30,30,30
+Overall Best Teammate,70,70,70,70,70,70
+,,,,,,
+Combative Rider,10,10,10,10,10,10
+Overall Combative Rider,70,70,70,70,70,70
+,,,,,,
+Age Multiplier,,,,,,
+<20,3,,,,,
+21-22,2,,,,,
+23-24,1.5,,,,,
+25,1,,,,,
+,,,,,,
+Team Multiplier,,,,,,
+UCI Ranking 1-5,0.1,,,,,
+UCI Ranking 6-10,0.5,,,,,
+UCI Ranking 11-15,1,,,,,
+UCI Ranking 16-20,1.5,,,,,
+UCI Ranking 21+,2,,,,,
+,,,,,,
+ITT results,,,,,,
+1,50,,,,,
+2,10,,,,,
+3,8,,,,,
+4,6,,,,,
+5,4,,,,,
